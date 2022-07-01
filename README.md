@@ -1,2 +1,3 @@
 # Codecademy_Projects
-Various projects from Codecademy
+
+[Fashion Blog Site](https://github.com/Kevinrwh/Codecademy_Projects/tree/main/Fashion_Blog_Site)
